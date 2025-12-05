@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-hello
-=======
 four
 4
->>>>>>> main
